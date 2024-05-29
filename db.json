@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "b292",
+      "name": "11111",
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "price": 55555
+    },
+    {
+      "id": "794e",
+      "name": "11111",
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "price": 55555
+    },
+    {
+      "id": "c195",
+      "name": "11111",
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "price": 55555
+    },
+    {
+      "id": "bfd5",
+      "name": "11111",
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "price": 55555
+    },
+    {
+      "id": "fb70",
+      "name": "11111",
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "price": 55555
+    },
+    {
+      "id": "d0dd",
+      "name": "11111",
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "price": 55555
+    },
+    {
+      "id": "9452",
+      "name": "22222",
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "price": 55555
+    },
+    {
+      "id": "dd0c",
+      "name": "rrrrr",
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "price": 6000
+    }
+  ]
+}
